@@ -1,6 +1,6 @@
 # Detecting and Correcting Adversarial Images
 
-Implementation of the paper:  <a href="https://arxiv.org/abs/1910.12467">Effects of Image Processing Operations on Adversarial Noise and Their Use in Detecting and Correcting Adversarial Images</a> (IEICE Transactions on Information and Systems 2022, best paper award).
+Implementation of the paper:  <a href="[https://arxiv.org/abs/1910.12467](https://www.jstage.jst.go.jp/article/transinf/E105.D/1/E105.D_2021MUP0005/_article/-char/en)">Effects of Image Processing Operations on Adversarial Noise and Their Use in Detecting and Correcting Adversarial Images</a> (IEICE Transactions on Information and Systems 2022, best paper award).
 
 You can clone this repository into your favorite directory:
 
